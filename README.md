@@ -14,7 +14,7 @@ To design, build, and query a structured Library Database using SQL only. The sy
 · Members – Registered members who can borrow books
 · Loans – Records of book borrow and return activities
 
-##Project Phases
+## Project Phases
 
 ### Database Setup
 
